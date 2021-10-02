@@ -1,2 +1,2 @@
 # AppData
-application data
+自作アプリで利用するデータファイル用
